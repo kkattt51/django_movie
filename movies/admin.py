@@ -10,4 +10,3 @@ admin.site.register(Actor)
 admin.site.register(Rating)
 admin.site.register(RatingStar)
 admin.site.register(Rewiews)
-
